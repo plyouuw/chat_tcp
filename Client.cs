@@ -35,7 +35,6 @@ namespace chat_tcp {
             this.ip_address = ip_address;
             this.port = port;
         }
-
         private bool Active()
         {
             if (client == null)

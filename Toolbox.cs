@@ -106,7 +106,6 @@ internal class Toolbox
             bool done = true;
             ConsoleKey key;
 
-
             while (done)
             {
                 Print(selected, optionaly_before_text);

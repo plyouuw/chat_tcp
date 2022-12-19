@@ -45,7 +45,6 @@ namespace chat_tcp
                 }
                 return true;
             }
-
             public void Polaczenie()
             {
                 byte[] buffer = new byte[4096];

@@ -4,7 +4,6 @@ namespace chat_tcp
 {
     internal class Program
     {
-
         public static void Main()
         {
             string ip = "127.0.0.1";
