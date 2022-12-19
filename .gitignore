@@ -363,4 +363,4 @@ MigrationBackup/
 FodyWeavers.xsd
 /.gitignore
 /.gitattributes
-/.chat_tcp.csproj
+/chat_tcp.csproj
